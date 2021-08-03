@@ -14,7 +14,7 @@ const sayHi = (req, res) => {
 
 
 
-app.get("/add", question0);
+app.get("/bfhl", question0);
 
 function question0(req, res){
 
